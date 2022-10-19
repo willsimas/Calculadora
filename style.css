@@ -5,14 +5,14 @@
 }
 
 body{
-    background-color: whitesmoke;
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
     padding: 90px 0;
 }
 
 .calculator {
     width: 400px;
     margin: 0 auto;
-    background-color: #18fbf0;
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
     padding: 20px;
     border-radius: 5px;
     box-shadow: 0 0 15px black;
@@ -51,6 +51,6 @@ body{
 }
 
 button:hover{
-    background-color: #18fbb7;
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
     color: black;
 }
